@@ -82,7 +82,7 @@ jobs:
     needs: push-to-docker-hub
     environment:
       name:  Test Deploy
-      url: https://recipe-app-fwu5.onrender.com
+      url: https://recipe-app-ebi3.onrender.com
 
     steps:
       - name: Trigger render.com Deployment
