@@ -30,5 +30,5 @@ Die Daten werden effizient in einer **MongoDB-Datenbank** gespeichert, die optim
 - Das Projekt befindet sich derzeit in der Deployment-Phase auf Render.com. Es kann vorkommen, dass der Server alle 15 Minuten ausfällt und anschließend etwa 30 bis 90 Sekunden für einen Neustart benötigt. Sollte die Seite nach dem Anklicken des Links nicht sofort laden, bitte ich Sie um ein wenig Geduld. Der Container wird gerade neu gestartet. Bald können Sie die Inhalte auf meiner Webseite in Ruhe betrachten. Entspannen Sie sich und genießen Sie Ihren Besuch!👉 https://recipe-app-ebi3.onrender.com/
 
 ---
-**Ivan Chiosa Capstone-Projekt 02.02.2024 © 2024 neue fische. Alle Rechte vorbehalten.**
-**Besuchen Sie mein [LinkedIn](https://www.linkedin.com/in/ivanchiosa/?locale=en_US) Profil.**
+**Capstone-Projekt 02.02.2024 © 2024 neue fische. Alle Rechte vorbehalten.**
+
